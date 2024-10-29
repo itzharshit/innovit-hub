@@ -1,6 +1,6 @@
-![agenone-hero](https://github.com/andreedyson/agenone/assets/108970537/96372c54-939d-4666-a0a6-220558516d56)
+![innovit-hub-hero](https://github.com/blue0316/innovit-hub/assets/108970537/96372c54-939d-4666-a0a6-220558516d56)
 
-# Agenone
+# InnovIT Hub
 
 Slicing UI for digital agency landing website features a bold hero section with clear benefits, a comprehensive services section to showcase their offerings, an experience statistic to highlight their expertise, a portfolio of their past projects, testimonials from satisfied clients, and a prominent call-to-action to encourage potential clients to take the next step.
 
@@ -9,4 +9,4 @@ Slicing UI for digital agency landing website features a bold hero section with 
 - Tailwind
 - GSAP
 
-**This UI Design was sourced from [CodeDesign Website](https://codedesign.dev/challenge/agenone)**
+**This UI Design was sourced from [CodeDesign Website](https://codedesign.dev/challenge/innovit-hub)**

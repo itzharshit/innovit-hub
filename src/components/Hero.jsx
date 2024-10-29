@@ -128,14 +128,14 @@ function Hero() {
         </div>
         <div className="absolute hidden max-sm:block">
           <img
-            src="/assets/hero-banner-mobile.png"
+            src="/assets/hero-banner-mobile.webp"
             alt="Hero Banner Mobile"
             className="h-[380px]"
           />
         </div>
         <div className="absolute hidden w-full items-center justify-center sm:flex">
           <img
-            src="/assets/hero-banner-desktop.png"
+            src="/assets/hero-banner-desktop.webp"
             alt="Hero Banner Desktop"
             className="h-[360px]"
           />

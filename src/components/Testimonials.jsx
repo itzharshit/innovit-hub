@@ -9,42 +9,42 @@ function Testimonials() {
       review:
         "Impressed! The website layout is clear and engaging. They showcase their work effectively, making it easy to see how they can help my business.",
       occupation: "Earth Wanderer",
-      profileImg: "/assets/person/person-1.jpg",
+      profileImg: "/assets/person/person-1.webp",
     },
     {
       reviewer: "Diana Dauri",
       review:
         "Found my perfect partner! Their services section perfectly matched my needs. I loved the client testimonials and contacted them right away.",
       occupation: "CEO CineReel",
-      profileImg: "/assets/person/person-2.jpg",
+      profileImg: "/assets/person/person-2.webp",
     },
     {
       reviewer: "Meliska Antonella",
       review:
         "Stand out from the crowd!  This website makes a strong first impression. It's clear they understand digital marketing and can deliver results.",
       occupation: "FinTrack Manager",
-      profileImg: "/assets/person/person-3.jpg",
+      profileImg: "/assets/person/person-3.webp",
     },
     {
       reviewer: "Anthony Werner",
       review:
         "Expertise speaks volumes! The experience stats are impressive. It gives me confidence that they can handle any digital challenge I throw their way.",
       occupation: "CFO Destinize",
-      profileImg: "/assets/person/person-4.jpg",
+      profileImg: "/assets/person/person-4.webp",
     },
     {
       reviewer: "Jimmy Cooks",
       review:
         "Seamless experience! The website is easy to navigate and informative.  I learned everything I needed to know about their services and contacted them for a consultation.",
       occupation: "COO MakeMoney",
-      profileImg: "/assets/person/person-5.jpg",
+      profileImg: "/assets/person/person-5.webp",
     },
     {
       reviewer: "Glenn Franklin",
       review:
         "Makes you want to work with them! The client portfolio is stunning. It showcases their creativity and ability to deliver exceptional projects.",
       occupation: "CFO Suxz",
-      profileImg: "/assets/person/person-6.jpg",
+      profileImg: "/assets/person/person-6.webp",
     },
   ];
 

@@ -19,8 +19,8 @@ function Footer() {
         <div className="max-md:mb-10">
           <div>
             <a href="/" className="flex items-center gap-2 md:gap-3">
-              <img src="/assets/logo.png" alt="Agenone Logo" className="w-9" />
-              <p className="text-xl font-bold italic md:text-2xl">Agenone</p>
+              <img src="/assets/logo.png" alt="InnovIT Hub Logo" className="w-9" />
+              <p className="text-xl font-bold italic md:text-2xl">InnovIT Hub</p>
             </a>
           </div>
           <p className="mb-8 mt-4 md:mb-10 md:mt-6 md:max-w-[410px]">
@@ -28,7 +28,7 @@ function Footer() {
             marketers, passionate about delivering exceptional digital
             solutions.
           </p>
-          <p>support@agenone.com</p>
+          <p>support@innovit-hub.com</p>
         </div>
 
         <div className="grid grid-cols-2 gap-y-6 md:grid-cols-3 md:gap-[120px]">
@@ -66,12 +66,12 @@ function Footer() {
       {/* Footer Copyright */}
       <div className="space-y-3">
         <span className="flex items-center justify-center text-center text-[#B6B8BC]">
-          Copyright © 2023 by Agenone. All rights reserved.
+          Copyright © 2023 by InnovIT Hub. All rights reserved.
         </span>
         <p className="text-center text-[#B6B8BC]">
           Design by{" "}
           <a
-            href="https://codedesign.dev/challenge/agenone"
+            href="https://codedesign.dev/challenge/innovit-hub"
             target="_blank"
             className="text-[#ffd466] duration-200 hover:underline"
           >
