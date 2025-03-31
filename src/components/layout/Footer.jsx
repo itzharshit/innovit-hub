@@ -24,9 +24,7 @@ function Footer() {
             </a>
           </div>
           <p className="mb-8 mt-4 md:mb-10 md:mt-6 md:max-w-[410px]">
-            We&apos;re a team of experienced designers, developers, and
-            marketers, passionate about delivering exceptional digital
-            solutions.
+            We&apos;re not just an agency—we’re your team. We mix smart strategy, clean design, and tech that works to help businesses stand out and succeed online.  
           </p>
           <p>thetechg@outlook.in</p>
         </div>
@@ -65,7 +63,7 @@ function Footer() {
       {/* Footer Copyright */}
       <div className="space-y-3">
         <span className="flex items-center justify-center text-center text-[#B6B8BC]">
-          Copyright © 2022-2025 by The TechG. All rights reserved.
+          Copyright © 2025 by The TechG. All rights reserved.
         </span>
       </div>
     </footer>
