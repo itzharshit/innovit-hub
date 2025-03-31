@@ -72,7 +72,7 @@ function Hero() {
       {/* Hero Banner */}
       <div className="hero-banner relative mt-[56px] flex h-[360px] w-full flex-col items-center justify-center p-6 text-center">
         <h3 className="z-10 text-lg font-semibold max-sm:mt-6 max-sm:w-[213px] md:text-xl xl:text-3xl">
-          Benefit of improving of your business
+          Perks of making your business better
         </h3>
         <div className="relative z-10 flex h-full items-center justify-center">
           <div className="hero-slider-items h-full w-full">
@@ -84,7 +84,7 @@ function Hero() {
                 className="rounded-full bg-white p-4 outline outline-8 outline-offset-8"
               />
               <h3 className="text-lg md:text-xl lg:text-2xl">
-                Expanding the Market
+                Make More Profit
               </h3>
             </div>
             <div className="slider-item flex flex-col items-center justify-center gap-8">
@@ -94,7 +94,7 @@ function Hero() {
                 alt="Wallet"
                 className="rounded-full bg-white p-4 outline outline-8 outline-offset-8"
               />
-              <h3 className="text-lg md:text-xl lg:text-2xl">Cost-Effective</h3>
+              <h3 className="text-lg md:text-xl lg:text-2xl">Outsmart Your Competition</h3>
             </div>
             <div className="slider-item flex flex-col items-center justify-center gap-8">
               <img
@@ -104,7 +104,7 @@ function Hero() {
                 className="rounded-full bg-white p-4 outline outline-8 outline-offset-8"
               />
               <h3 className="text-lg md:text-xl lg:text-2xl">
-                More Profesional
+                Look More Professional
               </h3>
             </div>
             <div className="slider-item flex flex-col items-center justify-center gap-8">
@@ -114,7 +114,7 @@ function Hero() {
                 alt="Peoples"
                 className="rounded-full bg-white p-4 outline outline-8 outline-offset-8"
               />
-              <h3 className="text-lg md:text-xl lg:text-2xl">Attract Client</h3>
+              <h3 className="text-lg md:text-xl lg:text-2xl">Turn Browsers Into Buyers</h3>
             </div>
           </div>
 
