@@ -57,8 +57,8 @@ function Navbar() {
           {/* Navbar Logo */}
           <div>
             <a href="/" className="flex items-center gap-2 md:gap-3">
-              <img src="/assets/logo.png" alt="InnovIT Hub Logo" className="w-9" />
-              <p className="text-xl font-bold italic md:text-2xl">InnovIT Hub</p>
+              <img src="/assets/logo.png" alt="The TechG Logo" className="w-9" />
+              <p className="text-xl font-bold italic md:text-2xl">The TechG</p>
             </a>
           </div>
           {/* Navbar Desktop Links */}
@@ -91,7 +91,7 @@ function Navbar() {
 
           {/* Navbar Contact Us Button */}
           <div>
-            <a href="#contact">
+            <a href="https://wa.me/+919416999579">
               <button className="bg-gradient-main hidden h-[56px] w-[135px] rounded-full font-semibold duration-300 hover:opacity-70 md:block">
                 Contact Us
               </button>
