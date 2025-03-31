@@ -46,22 +46,21 @@ function Hero() {
         {/* Hero Text */}
         <div className="hero-text flex flex-col items-center text-center">
           <span className="rounded-full bg-white/10 px-2 py-3 text-[10px] font-light uppercase md:px-4 md:text-sm">
-            Number One Creative Digital Agency
+            Where Big Ideas Meet Smart Technology
           </span>
           <h2 className="mt-2 text-4xl font-bold md:mt-3 md:text-7xl/[76px]">
-            <span className="text-gradient">Smart Choices</span>{" "}
-            <span className="block">For Your Business Growth</span>
+            <span className="text-gradient">Where Big Ideas</span>{" "}
+            <span className="block">Meet Smart Technology</span>
           </h2>
           <p className="mt-[14px] text-sm md:mt-6 md:text-xl">
-            We&apos;re a team of experienced designers, developers,
+            We&apos;re not just an agency—we’re your team.
             <br className="hidden md:flex" />
-            and marketers, passionate about delivering exceptional digital
-            solutions.
+            We mix smart strategy, clean design, and tech that works to help businesses stand out and succeed online.
           </p>
         </div>
         {/* Hero CTA */}
         <div className="hero-cta mt-10">
-          <a href="#contact">
+          <a href="https://wa.me/+919416999579">
             <button className="bg-gradient-main flex h-[56px] w-[166px] items-center justify-center gap-2 rounded-full font-semibold duration-300 hover:opacity-70 md:text-lg">
               Contact Us
               <ArrowRight size={16} />
