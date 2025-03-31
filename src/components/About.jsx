@@ -40,23 +40,21 @@ function About() {
     >
       <div className="about-text">
         <p className="text-2xl md:max-w-[800px] md:text-center">
-          We are passionate about helping businesses grow and succeed in the
-          digital age. We take pride in our work and strive to exceed your
-          expectations every time.
+          At The TechG, we’re more than an agency—we’re your strategic allies. Combining precision strategy, polished design, and cutting-edge development, we empower brands to captivate audiences and secure market leadership.  
         </p>
       </div>
       {/* About Grid */}
       <div className="about-grid grid w-full grid-cols-1 place-content-between place-items-center gap-6 rounded-2xl bg-gradient-to-br from-[#38C682] to-[#00796D] p-6 text-white md:grid-cols-4 md:px-20 md:py-8">
         <div className="space-y-3 text-center">
           <div className="flex items-center  justify-center text-5xl font-bold md:text-6xl lg:text-7xl">
-            <h3 className="grid-number">10</h3>
+            <h3 className="grid-number">3</h3>
             <span>+</span>
           </div>
           <p className="text-xs md:text-xl lg:text-2xl">Years of Experience</p>
         </div>
         <div className="space-y-3 text-center">
           <div className="flex items-center  justify-center text-5xl font-bold md:text-6xl lg:text-7xl">
-            <h3 className="grid-number">45</h3>
+            <h3 className="grid-number">20</h3>
             <span>+</span>
           </div>
           <p className="text-xs md:text-xl lg:text-2xl">Projects Completed</p>
@@ -67,12 +65,6 @@ function About() {
             <span>+</span>
           </div>
           <p className="text-xs md:text-xl lg:text-2xl">Satisfied Client</p>
-        </div>
-        <div className="space-y-3 text-center">
-          <h3 className="grid-number text-5xl font-bold md:text-6xl lg:text-7xl">
-            15
-          </h3>
-          <p className="text-xs md:text-xl lg:text-2xl">Award Achieved</p>
         </div>
       </div>
 
