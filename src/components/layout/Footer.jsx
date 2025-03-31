@@ -20,7 +20,7 @@ function Footer() {
           <div>
             <a href="/" className="flex items-center gap-2 md:gap-3">
               <img src="/assets/logo.png" alt="InnovIT Hub Logo" className="w-9" />
-              <p className="text-xl font-bold italic md:text-2xl">InnovIT Hub</p>
+              <p className="text-xl font-bold italic md:text-2xl">The TechG</p>
             </a>
           </div>
           <p className="mb-8 mt-4 md:mb-10 md:mt-6 md:max-w-[410px]">
@@ -28,7 +28,7 @@ function Footer() {
             marketers, passionate about delivering exceptional digital
             solutions.
           </p>
-          <p>support@innovit-hub.com</p>
+          <p>thetechg@outlook.in</p>
         </div>
 
         <div className="grid grid-cols-2 gap-y-6 md:grid-cols-3 md:gap-[120px]">
@@ -53,11 +53,10 @@ function Footer() {
           <div className="flex flex-col gap-4 md:gap-6">
             <h4 className="font-semibold">Social Media</h4>
             <div className="flex flex-col gap-3 text-[#B6B8BC] md:gap-4">
-              <a href="#">LinkedIn</a>
-              <a href="#">Twitter</a>
-              <a href="#">Instagram</a>
-              <a href="#">Dribble</a>
-              <a href="#">Behance</a>
+              <a href="https://linkedin.com/thetechg">LinkedIn</a>
+              <a href="https://bsky.app/@h-s.site">BlueSky</a>
+              <a href="https://instagram.com/thetechg">Instagram</a>
+              <a href="https://wa.me/+919416999579">WhatsApp</a>
             </div>
           </div>
         </div>
@@ -66,18 +65,8 @@ function Footer() {
       {/* Footer Copyright */}
       <div className="space-y-3">
         <span className="flex items-center justify-center text-center text-[#B6B8BC]">
-          Copyright © 2023 by InnovIT Hub. All rights reserved.
+          Copyright © 2022-2025 by The TechG. All rights reserved.
         </span>
-        <p className="text-center text-[#B6B8BC]">
-          Design by{" "}
-          <a
-            href="https://codedesign.dev/challenge/innovit-hub"
-            target="_blank"
-            className="text-[#ffd466] duration-200 hover:underline"
-          >
-            CodeDesign
-          </a>
-        </p>
       </div>
     </footer>
   );
