@@ -6,30 +6,37 @@ import ScrollTrigger from "gsap/ScrollTrigger";
 const ACCORDION_DATA = [
   {
     number: 1,
-    name: "UI / UX Design",
+    name: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas  commodi laboriosam iste quidem nostrum ratione, ducimus consequatur,numquam consequuntur, optio quam libero corrupti doloremque! Quos?",
+      "Websites That Outperform, Outlast, Outsell Design sites so sharp, they convert strangers into buyers before the page fully loads.",
     image: "/assets/service-img-1.webp",
   },
   {
     number: 2,
-    name: "Social Media Marketing",
+    name: "App Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas  commodi laboriosam iste quidem nostrum ratione, ducimus consequatur,numquam consequuntur, optio quam libero corrupti doloremque! Quos?",
+      "Build Apps Users Can not Quit - Code fast, addictive experiences that hook users and keep them hitting refresh for more.",
     image: "/assets/service-img-2.webp",
   },
   {
     number: 3,
     name: "Social Media Management",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas  commodi laboriosam iste quidem nostrum ratione, ducimus consequatur,numquam consequuntur, optio quam libero corrupti doloremque! Quos?",
+      "Own the Feed, Own the Market - Post, engage, and dominate—we turn your social channels into a lead-generating powerhouse.",
     image: "/assets/service-img-3.webp",
   },
   {
     number: 4,
-    name: "Development",
+    name: "Video Editing",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas  commodi laboriosam iste quidem nostrum ratione, ducimus consequatur,numquam consequuntur, optio quam libero corrupti doloremque! Quos?",
+      "Turn Scrollers Into Superfans - Cut, polish, and launch videos that grab eyeballs, break algorithms, and make your brand unforgettable.",
+    image: "/assets/service-img-4.webp",
+  },
+  {
+    number: 5,
+    name: "Bots Development",
+    description:
+      "Crush Repetitive Tasks 24/7 - Automate workflows, slash costs, and let bots handle the boring stuff—free your team for game-changing moves.",
     image: "/assets/service-img-4.webp",
   },
 ];
