@@ -33,17 +33,16 @@ function Footer() {
           <div className="flex flex-col gap-4 md:gap-6">
             <h4 className="font-semibold">Menu</h4>
             <div className="flex flex-col gap-3 text-[#B6B8BC] md:gap-4">
-              <a href="#">Home</a>
-              <a href="#">Services</a>
-              <a href="#">About Us</a>
-              <a href="#">Project</a>
-              <a href="#">Contact</a>
+              <a href="#hero">Home</a>
+              <a href="#services">Services</a>
+              <a href="#about">About Us</a>
+              <a href="#projects">Project</a>
+              <a href="wa.me/+919416999579">Contact</a>
             </div>
           </div>
           <div className="flex flex-col gap-4 md:gap-6">
             <h4 className="font-semibold">Support</h4>
             <div className="flex flex-col gap-3 text-[#B6B8BC] md:gap-4">
-              <a href="#">FAQ</a>
               <a href="#">Privacy Policy</a>
               <a href="#">Terms of Service</a>
             </div>
