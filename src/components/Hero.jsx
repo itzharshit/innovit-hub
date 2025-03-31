@@ -46,7 +46,7 @@ function Hero() {
         {/* Hero Text */}
         <div className="hero-text flex flex-col items-center text-center">
           <span className="rounded-full bg-white/10 px-2 py-3 text-[10px] font-light uppercase md:px-4 md:text-sm">
-            Not Your Average Digital Agency
+            Your #1 Partner for Digital Success
           </span>
           <h2 className="mt-2 text-4xl font-bold md:mt-3 md:text-7xl/[76px]">
             <span className="text-gradient">Where Big Ideas</span>{" "}
