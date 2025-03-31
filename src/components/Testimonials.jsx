@@ -5,46 +5,32 @@ import gsap from "gsap";
 function Testimonials() {
   const TESTI_DUMMY = [
     {
-      reviewer: "Andre Edyson",
+      reviewer: "Marcus Chen",
       review:
-        "Impressed! The website layout is clear and engaging. They showcase their work effectively, making it easy to see how they can help my business.",
+        "Hired The TechG to rebuild our e-commerce site—revenue jumped 140% in 3 months. Their web development team turned our 'meh' store into a sales machine.",
       occupation: "Earth Wanderer",
       profileImg: "/assets/person/person-1.webp",
     },
     {
-      reviewer: "Diana Dauri",
+      reviewer: "Priya Nadeem",
       review:
-        "Found my perfect partner! Their services section perfectly matched my needs. I loved the client testimonials and contacted them right away.",
-      occupation: "CEO CineReel",
+        "After their app redesign, our retention tripled and we hit Top 10 in our category. The TechG doesn't just 'design'—they engineer addiction. Now our biggest problem is scaling fast enough to keep up with demand",
+      occupation: "CEO, FitFam",
       profileImg: "/assets/person/person-2.webp",
     },
     {
-      reviewer: "Meliska Antonella",
+      reviewer: "Elena Rodriguez",
       review:
-        "Stand out from the crowd!  This website makes a strong first impression. It's clear they understand digital marketing and can deliver results.",
-      occupation: "FinTrack Manager",
+        "Their video editors took our boring product demos and turned them into viral content. Our last campaign generated 2M views and 10X-d our sales conversion rate. Mind. Blown.",
+      occupation: "CMO, GlowCosmetics",
       profileImg: "/assets/person/person-3.webp",
     },
     {
-      reviewer: "Anthony Werner",
+      reviewer: "Sofia Zhang",
       review:
-        "Expertise speaks volumes! The experience stats are impressive. It gives me confidence that they can handle any digital challenge I throw their way.",
-      occupation: "CFO Destinize",
+        "Thought automation was hype until The TechG built our customer service bots. They now handle 80% of inquiries and directly drive six figures monthly. Best ROI we've ever seen.",
+      occupation: "COO, GadgetGuru",
       profileImg: "/assets/person/person-4.webp",
-    },
-    {
-      reviewer: "Jimmy Cooks",
-      review:
-        "Seamless experience! The website is easy to navigate and informative.  I learned everything I needed to know about their services and contacted them for a consultation.",
-      occupation: "COO MakeMoney",
-      profileImg: "/assets/person/person-5.webp",
-    },
-    {
-      reviewer: "Glenn Franklin",
-      review:
-        "Makes you want to work with them! The client portfolio is stunning. It showcases their creativity and ability to deliver exceptional projects.",
-      occupation: "CFO Suxz",
-      profileImg: "/assets/person/person-6.webp",
     },
   ];
 
@@ -98,3 +84,8 @@ function Testimonials() {
 }
 
 export default Testimonials;
+
+
+
+  
+      
