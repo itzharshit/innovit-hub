@@ -26,7 +26,7 @@ function Testimonials() {
       profileImg: "/assets/person/person-3.webp",
     },
     {
-      reviewer: "Sofia Zhang",
+      reviewer: "Michael Zhang",
       review:
         "Thought automation was hype until The TechG built our customer service bots. They now handle 80% of inquiries and directly drive six figures monthly. Best ROI we've ever seen.",
       occupation: "COO, GadgetGuru",
