@@ -135,9 +135,10 @@ function Navbar() {
           >
             Projects
           </a>
+          <a href="https://wa.me/+919416999579">
           <button className="gradient h-[36px] w-[100px] rounded-full text-sm font-semibold">
-          <a href="https://wa.me/+919416999579"></a> Contact Us</a>
-          </button>
+          Contact Us
+          </button></a>
         </div>
       </header>
     </div>
