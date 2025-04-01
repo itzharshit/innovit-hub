@@ -8,7 +8,7 @@ const tabsData = [
     content: [
       {
         title: "Mission CS Test Series",
-        img: "/assets/projects/p1.png",
+        img: "/assets/projects/p1.webp",
         description:
           "A platform for a test series dedicated to Mission CS, including video editing.",
       },
@@ -19,7 +19,7 @@ const tabsData = [
     content: [
       {
         title: "Delhi Bakery School",
-        img: "/assets/projects/p2.png",
+        img: "/assets/projects/p2.webp",
         description:
           "Delhi Bakery School Website.",
       },
@@ -30,7 +30,7 @@ const tabsData = [
     content: [
       {
         title: "Chartered teams website",
-        img: "/assets/projects/p4.png",
+        img: "/assets/projects/p4.webp",
         description:
           "A website For chartered Team.",
       },
@@ -41,7 +41,7 @@ const tabsData = [
     content: [
       {
         title: "My CS MTP",
-        img: "/assets/projects/p3.png",
+        img: "/assets/projects/p3.webp",
         description:
           "Website, Video editing and Social media management for Mycsmtp.com",
       },
