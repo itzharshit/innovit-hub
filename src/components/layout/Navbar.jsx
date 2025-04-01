@@ -135,9 +135,12 @@ function Navbar() {
           >
             Projects
           </a>
-          <button className="gradient h-[36px] w-[100px] rounded-full text-sm font-semibold">
+          <a 
+            href="https://wa.me/+919416999579" 
+            className="gradient h-[36px] w-[100px] rounded-full text-sm font-semibold flex items-center justify-center"
+          >
             Contact Us
-          </button>
+          </a>
       </header>
     </div>
   );
