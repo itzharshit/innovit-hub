@@ -8,7 +8,7 @@ const tabsData = [
     content: [
       {
         title: "Mission CS Test Series",
-        img: "/assets/projects/p1.webp",
+        img: "/assets/projects/uiux-1.webp",
         description:
           "A platform for a test series dedicated to Mission CS, including video editing.",
       },
