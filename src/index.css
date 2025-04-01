@@ -30,11 +30,11 @@ footer {
 
 @layer components {
   .bg-gradient-main {
-    @apply bg-gradient-to-br from-[#00796D] to-[#38C682];
+    @apply bg-gradient-to-br from-[#ff08d6] to-[#c508ff];
   }
 
   .text-gradient {
-    @apply bg-gradient-to-br from-[#00796D] to-[#38C682] bg-clip-text text-transparent;
+    @apply bg-gradient-to-br from-[#ff08d6] to-[#c508ff] bg-clip-text text-transparent;
   }
 
   .hero-slider-items {
