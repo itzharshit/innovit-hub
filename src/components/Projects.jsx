@@ -29,7 +29,7 @@ const tabsData = [
     title: "Chartered Team",
     content: [
       {
-        title: "Chartered eams website",
+        title: "Chartered teams website",
         img: "/assets/projects/dm-1.webp",
         description:
           "A website For chartered Team.",
