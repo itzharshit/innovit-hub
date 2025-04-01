@@ -63,10 +63,10 @@ function Tabs({ tabs }) {
                   />
                   {/* Black Overlay */}
                   <div className="absolute inset-0 isolate flex items-center justify-center bg-black opacity-0 transition-opacity duration-300 group-hover:opacity-50"></div>
-                  <div className="absolute inset-0 isolate flex items-center justify-center text-[#1b9e77] opacity-0 duration-200 group-hover:opacity-100">
+                  <div className="absolute inset-0 isolate flex items-center justify-center text-[#c508ff] opacity-0 duration-200 group-hover:opacity-100">
                     <ArrowUpRight
                       size={128}
-                      className="rounded-full border-8 border-[#1b9e77] bg-white"
+                      className="rounded-full border-8 border-[#c508ff] bg-white"
                     />
                   </div>
                 </div>
