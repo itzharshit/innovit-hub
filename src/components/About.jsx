@@ -44,7 +44,7 @@ function About() {
         </p>
       </div>
       {/* About Grid */}
-      <div className="about-grid grid w-full grid-cols-1 place-content-between place-items-center gap-6 rounded-2xl bg-gradient-to-br from-[#c508ff] to-[#ff08d6] p-6 text-white md:grid-cols-4 md:px-20 md:py-8">
+      <div className="about-grid grid w-full grid-cols-1 place-content-between place-items-center gap-6 rounded-2xl bg-gradient-to-br from-[#ff08d6] to-[#c508ff] p-6 text-white md:grid-cols-4 md:px-20 md:py-8">
         <div className="space-y-3 text-center">
           <div className="flex items-center  justify-center text-5xl font-bold md:text-6xl lg:text-7xl">
             <h3 className="grid-number">3</h3>
