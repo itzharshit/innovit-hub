@@ -27,6 +27,7 @@ function Footer() {
             We&apos;re not just an agency—we’re your team. We mix smart strategy, clean design, and tech that works to help businesses stand out and succeed online.  
           </p>
           <p>thetechg@outlook.in</p>
+          <p>+91-9416999579</p>
         </div>
 
         <div className="grid grid-cols-2 gap-y-6 md:grid-cols-3 md:gap-[120px]">
