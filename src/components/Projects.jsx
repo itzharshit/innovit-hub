@@ -9,6 +9,7 @@ const tabsData = [
       {
         title: "Mission CS Test Series",
         img: "/assets/p1.webp",
+        url: "https://missioncstestseries.com",
         description:
           "A platform for a test series dedicated to Mission CS, including video editing.",
       },
@@ -20,6 +21,7 @@ const tabsData = [
       {
         title: "Delhi Bakery School",
         img: "/assets/p2.webp",
+        url: "https://delhibakeryschool.com",
         description:
           "Delhi Bakery School Website.",
       },
@@ -31,17 +33,19 @@ const tabsData = [
       {
         title: "Chartered teams website",
         img: "/assets/p4.webp",
+        url: "https://charteredteam.in",
         description:
           "A website For chartered Team.",
       },
     ],
   },
   {
-    title: "My CS MTP",
+    title: "MY CS MTP",
     content: [
       {
-        title: "My CS MTP",
+        title: "MY CS MTP",
         img: "/assets/p3.webp",
+        url: "https://mycsmtp.com",
         description:
           "Website, Video editing and Social media management for Mycsmtp.com",
       },
