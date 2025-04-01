@@ -74,7 +74,7 @@ function Projects() {
       {/* Services Header */}
       <div className="projects-header flex flex-col items-center gap-4 md:gap-8">
         <h3 className="text-center text-4xl font-bold md:text-6xl 2xl:text-7xl">
-          Projects We Have <span className="text-gradient">Done.</span>
+          Xprojects We Have <span className="text-gradient">Done</span>
         </h3>
         <p className="text-center text-sm md:max-w-[900px] md:text-xl">
           Take a look at some of our recent projects and see how we&apos;ve
