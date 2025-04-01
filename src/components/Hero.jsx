@@ -70,7 +70,7 @@ function Hero() {
       </div>
 
       {/* Hero Banner */}
-      <div className="hero-banner relative mt-[56px] flex h-[360px] w-full flex-col items-center justify-center p-6 text-center" style={{ backgroundColor: "#c508ff" }}>
+      <div className="hero-banner relative mt-[56px] flex h-[360px] w-full flex-col items-center justify-center p-6 text-center">
         <h3 className="z-10 text-lg font-semibold max-sm:mt-6 max-sm:w-[213px] md:text-xl xl:text-3xl">
           Perks of making your business better
         </h3>
