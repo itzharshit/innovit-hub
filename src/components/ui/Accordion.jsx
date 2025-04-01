@@ -43,13 +43,6 @@ function Accordion({ number, name, description, image }) {
           <p className="mt-4 max-w-[900px] text-justify md:mt-6">
             {description}
           </p>
-          {image && (
-            <img
-              src={image}
-              alt=""
-              className="mt-6 h-[300px] w-full rounded-md bg-center object-cover max-sm:h-[180px] md:mt-10"
-            />
-          )}
         </div>
       </div>
     </article>
