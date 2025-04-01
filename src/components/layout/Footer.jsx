@@ -52,7 +52,7 @@ function Footer() {
             <div className="flex flex-col gap-3 text-[#B6B8BC] md:gap-4">
               <a href="https://linkedin.com/thetechg">LinkedIn</a>
               <a href="https://bsky.app/@h-s.site">BlueSky</a>
-              <a href="https://instagram.com/thetechg">Instagram</a>
+              <a href="https://instagram.com/techg_solution">Instagram</a>
               <a href="https://wa.me/+919416999579">WhatsApp</a>
             </div>
           </div>
