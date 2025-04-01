@@ -17,7 +17,7 @@ function Company() {
       stagger: 0.3,
     });
   }, []);
-  return (
+  return ( <div></div>
   );
 }
 
