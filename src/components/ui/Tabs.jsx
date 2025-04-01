@@ -52,7 +52,13 @@ function Tabs({ tabs }) {
       <div className="tabs-content grid w-full grid-cols-1 place-content-between gap-8 md:grid-cols-2">
         {tabs[activeTabIndex] &&
           tabs[activeTabIndex].content.map((content, index) => (
-            <div key={index}>
+          <a
+           key={index}
+           href={content.url} // Added URL
+           target="_blank"
+           rel="noopener noreferrer"
+           className="block"
+            >
               <div className="space-y-4 rounded-3xl border border-slate-700 bg-[#181D2A] p-3 md:w-full md:p-4 md:pb-5">
                 <div className="group relative h-[300px] w-full cursor-pointer overflow-hidden rounded-xl md:h-[550px]">
                   <img
